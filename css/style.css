@@ -1,0 +1,28 @@
+.tarefa{
+  border: 1px solid #404040;
+  border-radius: 20px;
+  padding: 30px;
+  display: flex;
+  min-width: 400px;
+}
+
+div input{
+
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  height: 8vh;
+  width: 100vw;
+}
+
+footer input{
+  width: 38vw;
+}
+
+#add{
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
